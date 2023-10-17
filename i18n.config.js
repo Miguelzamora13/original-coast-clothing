@@ -41,3 +41,4 @@ i18n.configure({
 });
 
 module.exports = i18n;
+
